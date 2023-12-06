@@ -1,0 +1,13 @@
+all from https://www.youtube.com/watch?v=ky5ZB-mqZKM
+
+cloned from Github app
+created virtual envirnonment with command:  python -m venv fooocus_env   
+activate venv: fooocus_env/Scripts/activate
+Then run: pip install -r requirements_versions.txt 
+Next run: python entry_with_update.py
+To create a public link, set `share=True` in `launch()`.
+[Fooocus Model Management] Moving model(s) has taken 0.56 seconds
+App started successful. Use the app with http://127.0.0.1:7865/ or 127.0.0.1:7865
+
+
+After creating a few images, we need to create an Instagram account and upload to it....
